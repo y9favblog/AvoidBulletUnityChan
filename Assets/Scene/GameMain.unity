@@ -22003,7 +22003,6 @@ MonoBehaviour:
   inv_time: 1.5
   uni_spr: {fileID: 1889595704}
   uni_cnt: {fileID: 1889595702}
-  aum: {fileID: 24100000, guid: ae791eb7889154565ac4832e7870e6a1, type: 2}
   dmg_se: {fileID: 8300000, guid: 668a107660fa54fe98e03b698a09aa49, type: 3}
   audios: {fileID: 1701066875}
   g: {fileID: 1861866308}
@@ -22227,7 +22226,10 @@ MonoBehaviour:
   - {fileID: 185842743}
   - {fileID: 1466988433}
   - {fileID: 1950008861}
-  enemy: []
+  enemy:
+  - {fileID: 1655145278084424, guid: 98a8c3ab2f08a434dbdc327b6cfba5f4, type: 2}
+  - {fileID: 1761799055220650, guid: 2d418f7a36bdd4bb18f2f0660024f070, type: 2}
+  - {fileID: 1347034258067728, guid: 8483e87e6f37e4b76a98d0aa5ac2402f, type: 2}
   titlebt: {fileID: 832510486}
 --- !u!4 &1861866309
 Transform:
