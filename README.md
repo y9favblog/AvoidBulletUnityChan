@@ -10,9 +10,9 @@ URL:https://unityroom.com/games/fgp_game1/webgl
 
 【含まれていないAsset】
 
-・3 Skyboxes(Asset Store)
+・3 Skyboxes(Asset Storeにて無料でダウンロードできます)
 
-・ランキング関連Asset(詳しい導入方法はnaichi様の以下Webサイトを御覧ください)
+・ランキング関連Asset(詳しい導入方法はnaichi様の以下記事を御覧ください)
 
 http://blog.naichilab.com/entry/webgl-simple-ranking
 
